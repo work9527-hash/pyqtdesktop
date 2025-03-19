@@ -1,12 +1,20 @@
 # Todo
 - 启动页面(pyinstaller splash)
 - 检查更新&一键安装、一键卸载
+- 实现pybuilder一键构建
 - 和设备通过usb 串口COM通信
 - 
 
 # 技术栈
 - QT Designer + 模板
-- PyQt
+- PyQt5
+> pip install pyqt5
+
+使用工具
+- pybuilder 构建目录结构
+- pyinstaller
+- Advanced  Installer
+
  
 
 
